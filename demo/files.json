@@ -2,9 +2,6 @@
   "16px": {
     "title": "16px",
     "files": [
-      "PPSSPP",
-      "Recycle Bin (empty)",
-      "Recycle Bin (full)",
       "calculator",
       "chrome",
       "cog",
@@ -16,6 +13,9 @@
       "photoshop",
       "photoshop_boxless",
       "photoshop_solid",
+      "ppsspp",
+      "recycle-bin_empty",
+      "recycle-bin_full",
       "steam_boxless",
       "sublime-text",
       "sublime-text_boxless",

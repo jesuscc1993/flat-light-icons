@@ -15,7 +15,7 @@ const initialize = () => {
         </div>`);
       const filesGrid = jQuery(`<div class="grid"></div>`);
 
-      group.files.reverse().forEach((file) => {
+      group.files.forEach((file) => {
         filesGrid.append(
           `<img class="icon" src="../${groupKey}/${file}.png" title="${file}">`
         );
