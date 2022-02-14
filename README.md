@@ -1,5 +1,6 @@
 # About
 Flat light icon collection built from scratch (some based on existing designs).
+Both SVG and PNG files have been loslessly compressed.
 
 # Contents
 * SVG (vector)
