@@ -1,0 +1,63 @@
+{
+  "16px": {
+    "title": "16px",
+    "files": [
+      "PPSSPP",
+      "Recycle Bin (empty)",
+      "Recycle Bin (full)",
+      "calculator",
+      "chrome",
+      "cog",
+      "folder",
+      "headphones",
+      "keyboard",
+      "media-player-classic",
+      "multimedia",
+      "photoshop",
+      "photoshop_boxless",
+      "photoshop_solid",
+      "steam_boxless",
+      "sublime-text",
+      "sublime-text_boxless",
+      "terminal",
+      "visual-studio",
+      "visual-studio-code",
+      "windows-media-player"
+    ]
+  },
+  "16px/outline": {
+    "title": "16px (outline)",
+    "files": [
+      "circle-cross",
+      "circle-divide",
+      "circle-minus",
+      "circle-pause",
+      "circle-play",
+      "circle-plus",
+      "compact-disc",
+      "download",
+      "film",
+      "flag",
+      "floppy_disk",
+      "globe",
+      "joystick",
+      "tools",
+      "user",
+      "users"
+    ]
+  },
+  "32px": {
+    "title": "32px",
+    "files": [
+      "dopamine_3",
+      "fullscreenizer",
+      "keyboard",
+      "notepad",
+      "qBittorrent",
+      "qBittorrent_boxless",
+      "qBittorrent_solid",
+      "windows",
+      "xpadder"
+    ]
+  }
+}

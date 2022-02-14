@@ -1,0 +1,33 @@
+:root {
+  --icon-size: 128px;
+  --spacing: 16px;
+}
+
+body {
+  background: #202020;
+  color: #fff;
+  font-family: 'Roboto', sans-serif;
+  margin: var(--spacing) var(--spacing) 33vh;
+}
+
+.main {
+  margin: 0 auto;
+  max-width: 1280px;
+  text-align: center;
+}
+
+.grid {
+  display: grid;
+  grid-gap: var(--spacing);
+  grid-template-columns: repeat(auto-fill, var(--icon-size));
+  grid-template-rows: repeat(auto-fill, var(--icon-size));
+}
+
+.group + .group {
+  margin-top: 36px;
+}
+
+.icon {
+  height: var(--icon-size);
+  width: var(--icon-size);
+}
