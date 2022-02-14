@@ -10,6 +10,14 @@ body {
   margin: var(--spacing) var(--spacing) 33vh;
 }
 
+a {
+  color: #58a6ff;
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+}
+
 .main {
   margin: 0 auto;
   max-width: 1280px;
@@ -23,8 +31,8 @@ body {
   grid-template-rows: repeat(auto-fill, var(--icon-size));
 }
 
-.group + .group {
-  margin-top: 36px;
+.group {
+  margin: 36px 0;
 }
 
 .icon {
