@@ -24,4 +24,4 @@ Both SVG and PNG files have been loslessly compressed.
 
 # Download
 
-- [Download latest icons](https://www.deviantart.com/users/outgoing?https://github.com/jesuscc1993/flat-light-icons/archive/refs/heads/gh-pages.zip)
+- [Download latest icons](https://github.com/jesuscc1993/flat-light-icons/archive/refs/heads/gh-pages.zip)
