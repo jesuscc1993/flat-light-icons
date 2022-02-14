@@ -12,7 +12,8 @@ const initialize = () => {
       const groupElement = jQuery(`
         <div class="group">
           <h2>${group.title}</h2>
-        </div>`);
+        </div>
+      `);
       const filesGrid = jQuery(`<div class="grid"></div>`);
 
       group.files.forEach((file) => {
