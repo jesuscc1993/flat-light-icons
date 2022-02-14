@@ -14,7 +14,9 @@ Both SVG and PNG files have been loslessly compressed.
 - 16px folder contains icons designed at 16px, which means they will perfectly scale to 32px, 48px and 256px.
   - 16px/outline folder contains icons consisting only of outlines
 - 32px folder contains icons designed at 16px, which means they will perfectly scale to 32px and 256px.
-- In summary, all icons will look poorly at 24px (because it's an odd resolution) and 32px might not look perfect at 48px.
+- In summary
+  - 32px icons might not look perfect at 48px.
+  - All icons will look poorly at 24px (because it's an odd resolution, every other resolution is multiple of 16).
 
 # Live demo
 
