@@ -18,7 +18,7 @@ Both SVG and PNG files have been loslessly compressed.
 
 # Live demo
 
-- [Live demo](/demo/)
+- [Live demo](https://jesuscc1993.github.io/flat-light-icons/demo/)
 
 # Download
 
