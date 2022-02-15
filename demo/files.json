@@ -3,7 +3,6 @@
     "title": "16px",
     "files": [
       "calculator",
-      "chrome",
       "cog",
       "folder",
       "headphones",
@@ -49,6 +48,7 @@
   "32px": {
     "title": "32px",
     "files": [
+      "chrome",
       "dopamine_3",
       "fullscreenizer",
       "keyboard",
