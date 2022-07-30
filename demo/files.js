@@ -1,4 +1,4 @@
-{
+const filesMap = {
   "16px": {
     "title": "16px",
     "files": [
@@ -67,4 +67,4 @@
       "xpadder"
     ]
   }
-}
+};
