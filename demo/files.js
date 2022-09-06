@@ -4,6 +4,7 @@ const filesMap = {
     "files": [
       "calculator",
       "cog",
+      "dopamine_3",
       "folder",
       "headphones",
       "keyboard",
@@ -54,7 +55,6 @@ const filesMap = {
     "files": [
       "audacity",
       "chrome",
-      "dopamine_3",
       "fullscreenizer",
       "globe",
       "globe_alt",
@@ -66,7 +66,8 @@ const filesMap = {
       "qBittorrent_boxless",
       "qBittorrent_solid",
       "speaker",
-      "windows",
+      "windows_8",
+      "windows_11",
       "xpadder"
     ]
   }
