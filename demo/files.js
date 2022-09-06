@@ -56,13 +56,16 @@ const filesMap = {
       "chrome",
       "dopamine_3",
       "fullscreenizer",
+      "globe",
+      "globe_alt",
       "keyboard",
+      "microphone",
       "notepad",
       "notepad_with_pencil",
-      "speaker",
       "qBittorrent",
       "qBittorrent_boxless",
       "qBittorrent_solid",
+      "speaker",
       "windows",
       "xpadder"
     ]
