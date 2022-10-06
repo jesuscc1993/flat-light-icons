@@ -46,6 +46,7 @@ const filesMap = {
       "joystick",
       "monitor",
       "tools",
+      "trash",
       "user",
       "users"
     ]
