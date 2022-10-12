@@ -22,6 +22,7 @@ const filesMap = {
       "sublime-text",
       "sublime-text_boxless",
       "terminal",
+      "trash",
       "treesize",
       "visual-studio",
       "visual-studio-code",
@@ -46,7 +47,7 @@ const filesMap = {
       "joystick",
       "monitor",
       "tools",
-      "trash",
+      "trash_bin",
       "user",
       "users"
     ]
