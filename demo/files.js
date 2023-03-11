@@ -55,6 +55,7 @@ const filesMap = {
   "32px": {
     "title": "32px",
     "files": [
+      "afterburner",
       "audacity",
       "chrome",
       "fullscreenizer",
@@ -68,8 +69,8 @@ const filesMap = {
       "qBittorrent_boxless",
       "qBittorrent_solid",
       "speaker",
-      "windows_8",
       "windows_11",
+      "windows_8",
       "xpadder"
     ]
   }
