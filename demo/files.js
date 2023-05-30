@@ -58,6 +58,7 @@ const filesMap = {
       "afterburner",
       "audacity",
       "chrome",
+      "firefox",
       "fullscreenizer",
       "globe",
       "globe_alt",
