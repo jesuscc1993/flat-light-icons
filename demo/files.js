@@ -8,6 +8,7 @@ const filesMap = {
       "folder",
       "headphones",
       "keyboard",
+      "magnet",
       "media-player-classic",
       "mp3-tag",
       "multimedia",
