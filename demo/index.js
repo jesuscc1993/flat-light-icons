@@ -6,18 +6,23 @@ const initialize = () => {
 
     const groupElement = jQuery(`
       <div class="group">
-        <h2>${group.title}</h2>
+        <div class="title">${group.title}</div>
       </div>
     `);
+    const groupContent = jQuery(`<div class="content"></div>`);
     const filesGrid = jQuery(`<div class="grid"></div>`);
 
     group.files.forEach((file) => {
-      filesGrid.append(
-        `<img class="icon" src="../${groupKey}/${file}.png" title="${file}">`
-      );
+      const path = `../${groupKey}/${file}.png`;
+      filesGrid.append(`
+        <a href="${path}" target="_blank">
+          <img class="icon" src="${path}" title="${file}">
+        </a>
+      `);
     });
 
-    groupElement.append(filesGrid);
+    groupContent.append(filesGrid);
+    groupElement.append(groupContent);
     output.append(groupElement);
   });
 };
