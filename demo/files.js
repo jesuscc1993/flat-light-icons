@@ -11,6 +11,7 @@ const filesMap = {
       "magnet",
       "media-player-classic",
       "mp3-tag",
+      "palette",
       "photoshop",
       "photoshop_boxless",
       "photoshop_solid",
