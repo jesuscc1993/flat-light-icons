@@ -6,6 +6,7 @@ const filesMap = {
       "cog",
       "dopamine_3",
       "folder",
+      "folder_alt",
       "headphones",
       "keyboard",
       "magnet",

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="folder_alt" class="cls-1" d="M224,224H32a16,16,0,0,1-16-16V80h87l32-32h89a16,16,0,0,1,16,16V208A16,16,0,0,1,224,224ZM96,64H16V48A16,16,0,0,1,32,32H96l16,16Z"/>
+</svg>
