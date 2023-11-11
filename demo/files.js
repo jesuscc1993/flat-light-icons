@@ -3,6 +3,7 @@ const filesMap = {
     "title": "16px",
     "files": [
       "calculator",
+      "cassette",
       "cog",
       "dopamine_3",
       "folder",
