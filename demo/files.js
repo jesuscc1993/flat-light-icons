@@ -9,6 +9,7 @@ const filesMap = {
       "folder",
       "folder_alt",
       "headphones",
+      "heart",
       "keyboard",
       "magnet",
       "media-player-classic",
