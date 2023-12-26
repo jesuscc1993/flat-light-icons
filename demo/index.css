@@ -40,8 +40,8 @@ a:hover {
 }
 
 .group {
-  --icon-size: 128px;
-  --columns: 9;
+  --icon-size: 96px;
+  --columns: 10;
 
   background: var(--c-frame);
   border: 4px solid var(--c-frame);

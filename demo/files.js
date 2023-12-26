@@ -11,6 +11,7 @@ const filesMap = {
       "headphones",
       "heart",
       "keyboard",
+      "lightbulb",
       "magnet",
       "media-player-classic",
       "mp3-tag",
