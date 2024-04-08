@@ -2,8 +2,8 @@ const filesMap = {
   "16px": {
     "title": "16px",
     "files": [
-      "archive",
       "aimp",
+      "archive",
       "calculator",
       "cassette",
       "cog",
