@@ -8,6 +8,7 @@ const filesMap = {
       "cassette",
       "cog",
       "dopamine_3",
+      "downloads",
       "folder",
       "folder_alt",
       "headphones",
