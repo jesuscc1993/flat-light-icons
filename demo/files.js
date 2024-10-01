@@ -46,6 +46,7 @@ const filesMap = {
       "circle-play",
       "circle-plus",
       "compact-disc",
+      "compact-disc_old",
       "download",
       "film",
       "flag",
