@@ -11,6 +11,7 @@ const filesMap = {
       "downloads",
       "folder",
       "folder_alt",
+      "gog",
       "headphones",
       "heart",
       "keyboard",
