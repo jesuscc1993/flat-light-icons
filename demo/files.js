@@ -78,12 +78,13 @@ const filesMap = {
       "microphone",
       "notepad",
       "notepad_with_pencil",
+      "python",
       "qBittorrent",
       "qBittorrent_boxless",
       "qBittorrent_solid",
       "speaker",
-      "windows_11",
       "windows_8",
+      "windows_11",
       "xpadder"
     ]
   }
