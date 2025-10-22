@@ -59,6 +59,7 @@ const filesMap = {
       "multimedia",
       "recycle-bin_empty",
       "recycle-bin_full",
+      "shutdown",
       "tools",
       "trash_bin",
       "user",
