@@ -83,6 +83,7 @@ const filesMap = {
       'chrome',
       'firefox',
       'fullscreenizer',
+      'gcn',
       'globe',
       'globe_alt',
       'keyboard',
