@@ -7,6 +7,7 @@ const filesMap = {
       'backup',
       'brightness',
       'calculator',
+      'camera',
       'cassette',
       'chrome',
       'cog',
