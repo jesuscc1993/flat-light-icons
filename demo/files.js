@@ -11,6 +11,7 @@ const filesMap = {
       'cassette',
       'chrome',
       'cog',
+      'cog_alt',
       'dopamine_3',
       'downloads',
       'folder',
