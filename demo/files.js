@@ -31,6 +31,7 @@ const filesMap = {
       'photoshop_boxless',
       'photoshop_solid',
       'ppsspp',
+      'reload',
       'screen-to-gif',
       'steam_boxless',
       'sublime-text',
