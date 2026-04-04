@@ -89,6 +89,7 @@ const filesMap = {
       'gcn',
       'globe',
       'globe_alt',
+      'graphic-settings',
       'keyboard',
       'microphone',
       'notepad',
