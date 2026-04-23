@@ -66,6 +66,7 @@ const filesMap = {
       'flag',
       'floppy_disk',
       'globe',
+      'heart',
       'hibernate',
       'joystick',
       'monitor',
