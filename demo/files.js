@@ -56,7 +56,6 @@ const filesMap = {
       'circle-minus',
       'circle-pause',
       'circle-play',
-	  'circle-play_solid',
       'circle-plus',
       'cog',
       'compact-disc',
@@ -80,6 +79,7 @@ const filesMap = {
       'usb',
       'user',
       'users',
+	  'circle-play_solid',
     ],
   },
   '32px': {
