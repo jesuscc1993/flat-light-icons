@@ -78,6 +78,7 @@ const filesMap = {
       'trash_bin',
       'usb',
       'user',
+      'user_alt',
       'users',
 	  'circle-play_solid',
     ],
