@@ -1,12 +1,11 @@
 # About
 
 Flat light icon collection built from scratch (some based on existing designs).
-Both SVG and PNG files have been loslessly compressed.
+SVG files have been losslessly compressed.
 
 # Contents
 
 - SVG (vector)
-- PNG (256px)
 - ICO (16px, 24px, 32px, 48px, 256px)
 
 # Differences
