@@ -42,6 +42,7 @@ const filesMap = {
       'trash_full',
       'trash_half',
       'treesize',
+      'tv',
       'usb',
       'visual-studio',
       'visual-studio-code',
