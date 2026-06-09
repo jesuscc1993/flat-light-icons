@@ -5,7 +5,6 @@ const filesMap = {
       'aimp',
       'archive',
       'backup',
-      'brightness',
       'calculator',
       'camera',
       'cassette',
@@ -52,6 +51,8 @@ const filesMap = {
   '16px/outline': {
     title: '16px (outline)',
     files: [
+      'brightness',
+      'brightness_thick',
       'circle-cross',
       'circle-divide',
       'circle-minus',
@@ -75,6 +76,7 @@ const filesMap = {
       'recycle-bin_empty',
       'recycle-bin_full',
       'shutdown',
+      'shutdown_thick',
       'tools',
       'trash_bin',
       'usb',
