@@ -5,6 +5,7 @@ const filesMap = {
       'aimp',
       'archive',
       'backup',
+      'bell',
       'calculator',
       'camera',
       'cassette',
@@ -51,6 +52,7 @@ const filesMap = {
   '16px/outline': {
     title: '16px (outline)',
     files: [
+      'bell',
       'brightness',
       'brightness_thick',
       'circle-cross',
