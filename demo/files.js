@@ -6,6 +6,7 @@ const filesMap = {
       'archive',
       'backup',
       'bell',
+      'books',
       'calculator',
       'camera',
       'cassette',
