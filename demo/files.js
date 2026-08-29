@@ -79,6 +79,7 @@ const filesMap = {
       'joystick',
       'link',
       'media-player-classic',
+      'media-player-classic-alt',
       'monitor',
       'multimedia',
       'multimedia_solid',
