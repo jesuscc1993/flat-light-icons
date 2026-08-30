@@ -135,7 +135,9 @@ const filesMap = {
       'qBittorrent',
       'qBittorrent_alt',
       'qBittorrent_boxless',
+      'visual-studio',
       'visual-studio-code',
+      'visual-studio-code_alt',
     ],
   },
 };
