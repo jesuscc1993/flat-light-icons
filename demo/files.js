@@ -47,6 +47,7 @@ const filesMap = {
     title: '16px (outline)',
     files: [
       'aimp',
+      'aimp_thin',
       'backup_thick',
       'bell',
       'brightness',
