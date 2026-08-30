@@ -13,7 +13,7 @@ const initialize = () => {
     const filesGrid = jQuery(`<div class="grid"></div>`);
 
     group.files.sort().forEach((file) => {
-      const path = `../${groupKey}/${file}.svg`;
+      const path = `../SVG/${groupKey}/${file}.svg`;
       filesGrid.append(`
         <a href="${path}" target="_blank">
           <img class="icon" src="${path}" title="${file}">
