@@ -1,6 +1,8 @@
 :root {
-  --gap: 24px;
-  --margin: 24px;
+  --icon-size: 64px;
+  --columns: 12;
+  --gap: 1em;
+  --margin: 1.5em;
 
   --c-frame: #000;
   --c-window-bg: #202020;
@@ -40,9 +42,6 @@ a:hover {
 }
 
 .group {
-  --icon-size: 96px;
-  --columns: 10;
-
   background: var(--c-frame);
   border: 4px solid var(--c-frame);
   border-radius: 6px;
@@ -57,26 +56,17 @@ a:hover {
 .group .content {
   background: var(--c-window-bg);
   border-radius: 2px;
-  padding: calc(var(--icon-size) / 8);
 }
-
-/*.grid {
-  display: grid;
-  grid-gap: var(--gap);
-  grid-template-columns: repeat(auto-fill, var(--icon-size));
-  grid-template-rows: repeat(auto-fill, var(--icon-size));
-}*/
 
 .grid {
-  max-width: calc(var(--columns) * (var(--icon-size) + var(--gap)));
-}
-
-.grid a {
-  font-size: 0;
+  display: grid;
+  gap: var(--gap);
+  grid-template-columns: repeat(var(--columns), var(--icon-size));
+  padding: var(--gap);
 }
 
 .icon {
-  margin: calc(var(--gap) / 2);
+  display: block;
   max-height: var(--icon-size);
   max-width: var(--icon-size);
 }
