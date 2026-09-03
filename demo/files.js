@@ -123,6 +123,7 @@ const filesMap = {
     "files": [
       "aimp",
       "aimp_thin",
+      "audacity",
       "chrome",
       "dopamine_3",
       "firefox",
