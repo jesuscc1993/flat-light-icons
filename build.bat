@@ -15,5 +15,4 @@ for /r "%CD%\SVG" %%F in (*.svg) do (
 )
 
 node "%~dp0demo\update-files-map.js"
-
-pause
+start "" "%~dp0demo\index.html"
