@@ -146,7 +146,8 @@ const filesMap = {
       "terminal",
       "visual-studio",
       "visual-studio-code",
-      "visual-studio-code_alt"
+      "visual-studio-code_alt",
+      "xpadder"
     ]
   }
 };
