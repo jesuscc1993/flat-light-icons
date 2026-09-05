@@ -134,6 +134,7 @@ const filesMap = {
       "inkscape",
       "media-player-classic",
       "media-player-classic_solid",
+      "mp3-tag",
       "nvidia-profile-inspector",
       "photoshop",
       "python",
