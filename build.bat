@@ -19,4 +19,8 @@ for /r "%CD%\SVG" %%F in (*.svg) do (
 )
 
 node "%~dp0demo\update-files-map.js"
-start "" "%~dp0demo\index.html"
+git add *.svg *.ico demo\files.js
+git commit
+git push
+
+@REM start "" "%~dp0demo\index.html"

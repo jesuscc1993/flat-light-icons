@@ -29,6 +29,7 @@ const filesMap = {
       "lock",
       "lock_open",
       "magnet",
+      "message",
       "microphone",
       "notepad",
       "notepad_with_pencil",
