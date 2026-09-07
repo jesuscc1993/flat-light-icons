@@ -60,6 +60,7 @@ const filesMap = {
       "clock",
       "clock_thick",
       "cog",
+      "comic_page",
       "compact-disc",
       "compact-disc_old",
       "download",
