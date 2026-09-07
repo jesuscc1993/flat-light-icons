@@ -67,6 +67,7 @@ const filesMap = {
       "download",
       "download_alt_thick",
       "film",
+      "film_alt",
       "flag",
       "floppy_disk",
       "folder_alt",
