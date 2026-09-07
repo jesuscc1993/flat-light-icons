@@ -2,15 +2,21 @@ const filesMap = {
   "generic": {
     "title": "Generic",
     "files": [
+      "app_drawer",
+      "app_drawer_inversed",
       "archive",
       "bell",
       "books",
+      "calendar",
       "camera",
       "cassette",
       "chrome",
       "cog",
       "cog_old",
+      "envelope",
+      "envelope_alt",
       "film_projector",
+      "flashlight",
       "folder",
       "folder_alt",
       "heart",
@@ -25,7 +31,9 @@ const filesMap = {
       "notepad_with_pencil",
       "palette",
       "trash",
-      "usb"
+      "usb",
+      "user",
+      "users"
     ]
   },
   "generic/outline": {
@@ -36,6 +44,7 @@ const filesMap = {
       "brightness",
       "brightness_thick",
       "calculator",
+      "calculator_mobile",
       "circle-cross",
       "circle-divide",
       "circle-important",
@@ -86,6 +95,7 @@ const filesMap = {
       "user",
       "user_alt",
       "users",
+      "users_alt",
       "warning"
     ]
   },
@@ -96,6 +106,7 @@ const filesMap = {
       "aimp",
       "audacity",
       "chrome",
+      "dialer",
       "discord",
       "firefox",
       "gcn",
@@ -127,6 +138,7 @@ const filesMap = {
       "aimp_thin",
       "audacity",
       "chrome",
+      "dialer",
       "discord",
       "dopamine_3",
       "firefox",
