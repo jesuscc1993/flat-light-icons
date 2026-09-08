@@ -88,6 +88,7 @@ const filesMap = {
       "recycle-bin_empty",
       "recycle-bin_full",
       "reload_thick",
+      "rocket",
       "shutdown",
       "shutdown_thick",
       "speaker",
