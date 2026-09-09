@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="pencil" class="cls-1" d="M228,76L180,28l12-12,48,48Zm-8,8-8,8L164,44l8-8ZM44,180l-8-8L156,52l8,8Zm4,52L24,208l6.4-25.6,43.2,43.2Zm-32,8,4.8-19.2,14.4,14.4Zm36-52L172,68l16,16L68,204Zm152-88L84,220l-8-8L196,92Z"/>
+</svg>

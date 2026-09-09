@@ -36,6 +36,7 @@ const filesMap = {
       "notepad",
       "notepad_with_pencil",
       "palette",
+      "pencil",
       "star",
       "trash",
       "usb",
