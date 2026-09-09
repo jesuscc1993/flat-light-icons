@@ -46,7 +46,7 @@ const filesMap = {
   "generic/outline": {
     "title": "Generic (outline)",
     "files": [
-      "audio 1",
+      "audio",
       "backup_thick",
       "bell",
       "brightness",
@@ -75,6 +75,7 @@ const filesMap = {
       "flag",
       "floppy_disk",
       "folder_alt",
+      "gallery",
       "globe",
       "globe_alt",
       "graphic-settings",
