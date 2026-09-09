@@ -5,6 +5,7 @@ const filesMap = {
       "app_drawer",
       "app_drawer_inversed",
       "archive",
+      "audio",
       "bell",
       "books",
       "calendar",
@@ -45,6 +46,7 @@ const filesMap = {
   "generic/outline": {
     "title": "Generic (outline)",
     "files": [
+      "audio 1",
       "backup_thick",
       "bell",
       "brightness",
