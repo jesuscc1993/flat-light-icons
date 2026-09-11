@@ -57,6 +57,7 @@ const filesMap = {
       "bell",
       "book",
       "bookmark",
+      "books",
       "brightness",
       "brightness_thick",
       "calculator",
