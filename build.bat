@@ -1,6 +1,9 @@
 @echo off
 setlocal enabledelayedexpansion
 
+echo Building icon pack...
+echo(
+
 for /r "%CD%\SVG" %%F in (*.svg) do (
   set "ico_dir=%%~dpF"
   set "ico_dir=!ico_dir:\SVG\=\ICO\!"
