@@ -20,7 +20,15 @@ for /r "%CD%\SVG" %%F in (*.svg) do (
 
 node "%~dp0demo\update-files-map.js"
 git add *.svg *.ico demo\files.js
-git commit
+
+echo(
+set /p MSG=Commit message: 
+git commit -m "%MSG%"
+
+echo(
 git push
+
+echo(
+pause
 
 @REM start "" "%~dp0demo\index.html"
