@@ -130,6 +130,7 @@ const filesMap = {
       "reload_thick",
       "rocket",
       "shutdown",
+      "shutdown_alt",
       "shutdown_thick",
       "speaker",
       "star",
