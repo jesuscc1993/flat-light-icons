@@ -191,6 +191,7 @@ const filesMap = {
   "software/outline": {
     "title": "Software (outline)",
     "files": [
+      "afterburner",
       "aimp",
       "aimp_thin",
       "audacity",
