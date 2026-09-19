@@ -158,6 +158,7 @@ const filesMap = {
     "files": [
       "afterburner",
       "aimp",
+      "aimp_thin",
       "audacity",
       "chrome",
       "dialer",
