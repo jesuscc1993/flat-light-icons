@@ -124,6 +124,7 @@ const filesMap = {
       "monitor",
       "multimedia",
       "multimedia_solid",
+      "no-entry",
       "notepad",
       "notepad_with_pencil",
       "palette",
