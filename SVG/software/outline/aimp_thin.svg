@@ -1,1 +1,11 @@
-<svg height="256" viewBox="0 0 256 256" width="256" xmlns="http://www.w3.org/2000/svg"><path d="m128 240a112 112 0 1 1 112-112 112 112 0 0 1 -112 112zm0-208a96 96 0 1 0 96 96 96 96 0 0 0 -96-96zm60.076 144-60.076-104-50.833 88h85.666l9.243 16h-120.326l76.25-132 76.25 132z" fill="#fff" fill-rule="evenodd"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="aimp_thin" class="cls-1" d="M128,240A112,112,0,1,1,240,128,112,112,0,0,1,128,240Zm0-208a96,96,0,1,0,96,96A96,96,0,0,0,128,32Zm56.4,139.2L128,73.6,80.8,155.2h76.118l9.255,16H53.6L128,41.6l74.4,129.6h-18Z"/>
+</svg>
