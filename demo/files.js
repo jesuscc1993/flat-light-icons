@@ -11,6 +11,7 @@ const filesMap = {
       "bookmark",
       "books",
       "calendar",
+      "calendar_alt",
       "camera",
       "cassette",
       "cloud",
