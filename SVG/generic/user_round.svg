@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="user_round" class="cls-1" d="M128,240A112,112,0,1,1,240,128,112,112,0,0,1,128,240Zm0-208a40,40,0,1,0,40,40A40,40,0,0,0,128,32Zm0,96c-39.764,0-72,16.157-72,42.667S88.236,224,128,224s72-26.824,72-53.333S167.764,128,128,128Z"/>
+</svg>

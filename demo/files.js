@@ -46,6 +46,7 @@ const filesMap = {
       "trash",
       "usb",
       "user",
+      "user_round",
       "users"
     ]
   },
@@ -152,6 +153,7 @@ const filesMap = {
       "usb",
       "user",
       "user_alt",
+      "user_round",
       "users",
       "users_alt",
       "warning"
