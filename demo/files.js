@@ -35,6 +35,8 @@ const filesMap = {
       "lightbulb",
       "lock",
       "lock_open",
+      "lock_thin",
+      "lock_thin_open",
       "magnet",
       "message",
       "microphone",
